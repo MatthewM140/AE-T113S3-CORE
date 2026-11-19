@@ -89,7 +89,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -140,7 +139,7 @@
 			(effects
 				(font
 					(size 0.5 0.5)
-					(thickness 0.254)
+					(thickness 0.125)
 				)
 			)
 		)
@@ -312,7 +311,7 @@
 			(uuid "47f53255-5a60-4d40-920b-4500872953ba")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lazee/CoreBoard/libraries/3d.3dshapes/F1C1-201612-2R2M.stp"
+		(model "C:/Users/lazee/CoreBoard/AE-T113S3-CORE/libraries/3d.3dshapes/F1C1-201612-2R2M.stp"
 			(offset
 				(xyz -0.1899999948 -0.9100000126 0.05999999776)
 			)
@@ -9476,20 +9475,20 @@
 		(uuid "bb7b7dfc-8e90-47ea-85a4-6b26f69c7656")
 		(at 101.5 98 -90)
 		(property "Reference" "U1"
-			(at -6.75 7.65 180)
+			(at -6.75 7.65 0)
 			(layer "F.SilkS")
-			(uuid "a278358c-2e8c-42c7-ae0b-6cfe188290b4")
+			(uuid "8b119248-223d-4e2f-bd14-75f2535ac128")
 			(effects
 				(font
 					(size 0.5 0.5)
-					(thickness 0.15)
+					(thickness 0.125)
 				)
 			)
 		)
 		(property "Value" "T113-S3_C5197687"
 			(at 0 11.63 90)
 			(layer "F.Fab")
-			(uuid "9e7c559b-338f-416e-bda6-415519cad653")
+			(uuid "4ba9eee7-75c3-47a8-9780-9f704ec09d63")
 			(effects
 				(font
 					(size 1 1)
@@ -9501,7 +9500,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6cd0b2e6-183c-4c6d-b88e-721df4971f4f")
+			(uuid "f3380b02-dfa3-4f46-8cc2-3c113d80a7d9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9512,7 +9511,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a03d2887-e760-4c38-b64a-970144989068")
+			(uuid "34b47daf-d6ab-4357-a47c-807129fe26bd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10972,7 +10971,7 @@
 			(uuid "2d65a142-d188-4864-8b87-4bedefbbfcc5")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lazee/CoreBoard/libraries/3d.3dshapes/LQFP-128_L14.0-W14.0-P0.40-LS16.0-BL-EP5.6.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-128_14x14mm_P0.4mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10980,7 +10979,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -90)
 			)
 		)
 	)
@@ -11693,15 +11692,15 @@
 			(uuid "b5a38f7f-4507-4984-83c0-69bd70cb8c29")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lazee/CoreBoard/libraries/3d.3dshapes/WSON-8_L6.0-W8.0-H0.8-P1.27.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Maxim_WSON-8-1EP_3x2mm_P0.5mm_EP1.75x1.63mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1 1 1)
+				(xyz 2.7 3 0.7)
 			)
 			(rotate
-				(xyz 0 0 270)
+				(xyz -0 -0 -90)
 			)
 		)
 	)
