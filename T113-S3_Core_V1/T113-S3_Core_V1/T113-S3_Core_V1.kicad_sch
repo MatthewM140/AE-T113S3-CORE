@@ -37799,7 +37799,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "10k"
 			(at 88.392 94.742 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42331,7 +42331,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "10k"
 			(at 175.768 148.082 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51450,7 +51450,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "10k"
 			(at 180.848 148.082 0)
 			(show_name no)
 			(do_not_autoplace no)
