@@ -39485,7 +39485,7 @@
 				)
 			)
 		)
-		(property "Value" "12pF"
+		(property "Value" "22pF"
 			(at 80.01 169.418 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41021,7 +41021,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ecsxtal.com/store/pdf/ecx-31b.pdf"
 			(at 73.66 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -41032,7 +41032,7 @@
 				)
 			)
 		)
-		(property "Description" "Two pin crystal, small symbol"
+		(property "Description" "520-327-12.5-34B"
 			(at 73.66 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -48778,7 +48778,7 @@
 				)
 			)
 		)
-		(property "Value" "30pF"
+		(property "Value" "8.2pF"
 			(at 82.804 159.258 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48858,8 +48858,8 @@
 				)
 			)
 		)
-		(property "Value" "30pF"
-			(at 82.55 164.338 90)
+		(property "Value" "8.2pF"
+			(at 82.804 164.338 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -49113,7 +49113,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/5926/1/CX3225FB_6pF.pdf"
 			(at 77.47 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -49124,7 +49124,7 @@
 				)
 			)
 		)
-		(property "Description" "Four pin crystal, GND on pins 2 and 4, small symbol"
+		(property "Description" "CX3225FB24000B0FZZH1"
 			(at 77.47 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -52348,7 +52348,7 @@
 				)
 			)
 		)
-		(property "Value" "12pF"
+		(property "Value" "22pF"
 			(at 80.01 174.498 90)
 			(show_name no)
 			(do_not_autoplace no)
